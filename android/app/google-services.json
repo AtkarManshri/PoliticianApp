@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449088645502",
+    "project_id": "political-app-d3125",
+    "storage_bucket": "political-app-d3125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449088645502:android:95dac1a0fcca2005812b2f",
+        "android_client_info": {
+          "package_name": "com.example.politician_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvyAlCmK2lS34LgDR9rFqwY2V-eIm7K8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
